@@ -1,7 +1,7 @@
 public class INEURON {
  public static void main(String[] args)
  {
-	 int n=8;
+	 int n=7;
 	 
 	 for(int i=0;i<n;i++)
 	 {
